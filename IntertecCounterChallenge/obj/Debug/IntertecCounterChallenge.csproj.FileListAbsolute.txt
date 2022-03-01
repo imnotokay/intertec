@@ -1,0 +1,7 @@
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\bin\Debug\IntertecCounterChallenge.exe.config
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\bin\Debug\IntertecCounterChallenge.exe
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\bin\Debug\IntertecCounterChallenge.pdb
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\obj\Debug\IntertecCounterChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\obj\Debug\IntertecCounterChallenge.exe
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\obj\Debug\IntertecCounterChallenge.pdb
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\obj\Debug\IntertecCounterChallenge.csproj.AssemblyReference.cache

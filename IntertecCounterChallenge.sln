@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntertecCounterChallenge", "IntertecCounterChallenge\IntertecCounterChallenge.csproj", "{A2D4B17E-BC90-41A1-B153-CA1F41752569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntertecCounterChallenge.Test", "IntertecCounterChallenge.Test\IntertecCounterChallenge.Test.csproj", "{85672280-D14F-42C5-924B-B7BC2912F987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D4B17E-BC90-41A1-B153-CA1F41752569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D4B17E-BC90-41A1-B153-CA1F41752569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D4B17E-BC90-41A1-B153-CA1F41752569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D4B17E-BC90-41A1-B153-CA1F41752569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85672280-D14F-42C5-924B-B7BC2912F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85672280-D14F-42C5-924B-B7BC2912F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85672280-D14F-42C5-924B-B7BC2912F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85672280-D14F-42C5-924B-B7BC2912F987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9EA9A2-C79B-4ACF-B25D-B8A98499AC4D}
+	EndGlobalSection
+EndGlobal
