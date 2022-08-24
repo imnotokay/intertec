@@ -1,0 +1,1 @@
+Roslyn version: 4.2.0.0Language version: CSharp7_3!Concurrent execution: enabled½¸File 'C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge.Test\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs' was recognized as generated

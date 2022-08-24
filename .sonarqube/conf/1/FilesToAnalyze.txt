@@ -1,0 +1,9 @@
+﻿C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge.Test\SentenceParserTest.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge.Test\Properties\AssemblyInfo.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\packages\MSTest.TestAdapter.2.1.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge.Test\packages.config

@@ -1,0 +1,5 @@
+﻿C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Constants\ConstantsValues.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Model\SentenceParser.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Program.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Properties\AssemblyInfo.cs
+C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\App.config
