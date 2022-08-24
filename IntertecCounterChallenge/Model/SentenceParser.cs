@@ -13,7 +13,7 @@ namespace IntertecCounterChallenge.Model
 
         /// <summary>
         /// Initialize a new instance of SentenceParser class
-        /// </summary>
+        /// </summary> 
         public SentenceParser()
         {
             specialCharactersRegex = new Regex(ConstantsValues.SpecialCharacters);
