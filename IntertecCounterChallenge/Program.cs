@@ -22,6 +22,7 @@ namespace IntertecCounterChallenge
 
             string welcomeMessage = string.Empty;
             //It reads the main function arguments
+
             foreach(string arg in args)
             {
                 Console.Write(string.Concat(arg, " "));
