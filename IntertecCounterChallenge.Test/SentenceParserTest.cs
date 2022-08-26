@@ -26,18 +26,18 @@ namespace IntertecCounterChallenge.Test
             //Test expecting i0t as value
             wordToFind = "it-a";
             result = sentenceParser.ParseWordBySpecialCharacter(wordToFind);
-            Assert.AreEqual(result, "i0t-a");
+            Assert.AreEqual("i0t-a", result);
 
             //Test expecting s4g-u0p as value
             wordToFind = "setting-up";
             result = sentenceParser.ParseWordBySpecialCharacter(wordToFind);
-            Assert.AreEqual(result, "s4g-u0p");
+            Assert.AreEqual("s4g-u0p", result);
 
 
             //Test expecting s4g-u0p;s4g-d2n as value
             wordToFind = "setting-up;setting-down";
             result = sentenceParser.ParseWordBySpecialCharacter(wordToFind);
-            Assert.AreEqual(result, "s4g-u0p;s4g-d2n");
+            Assert.AreEqual("s4g-u0p;s4g-d2n", result);
         }
 
         [TestMethod]
@@ -49,13 +49,13 @@ namespace IntertecCounterChallenge.Test
             //Test expecting 4 as value
             wordToCount = "four";
             result = sentenceParser.DistinctLetters(wordToCount.ToCharArray());
-            Assert.AreEqual(result, "4");
+            Assert.AreEqual("4", result);
 
 
             //Test expecting 0 as value
             wordToCount = "";
             result = sentenceParser.DistinctLetters(wordToCount.ToCharArray());
-            Assert.AreEqual(result, "0");
+            Assert.AreEqual("0", result);
         }
 
         [TestMethod]
@@ -67,13 +67,13 @@ namespace IntertecCounterChallenge.Test
             //Test expecting I0t w1s m2y a1d m2y a y2r a1o as value
             sentenceToParse = "It was many and many a year ago";
             result = sentenceParser.WordParser(sentenceToParse);
-            Assert.AreEqual(result, "I0t w1s m2y a1d m2y a y2r a1o");
+            Assert.AreEqual("I0t w1s m2y a1d m2y a y2r a1o", result);
 
 
             //Test expecting C7t,M6t:C6n as value
             sentenceToParse = "Copyright,Microsoft:Corporation";
             result = sentenceParser.WordParser(sentenceToParse);
-            Assert.AreEqual(result, "C7t,M6t:C6n");
+            Assert.AreEqual("C7t,M6t:C6n", result);
         }
     }
 }

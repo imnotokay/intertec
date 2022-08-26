@@ -9,7 +9,7 @@ namespace IntertecCounterChallenge.Model
     public class SentenceParser
     {
         //Global variable for special characters regex validator
-        private Regex specialCharactersRegex;
+        private readonly Regex specialCharactersRegex;
 
         /// <summary>
         /// Initialize a new instance of SentenceParser class

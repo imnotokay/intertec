@@ -1,0 +1,6 @@
+projectKey=imnotokay_intertec_AYLR7rh2Nim6B1xhd3dQ
+serverUrl=http://localhost:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://localhost:9000/dashboard?id=imnotokay_intertec_AYLR7rh2Nim6B1xhd3dQ
+ceTaskId=AYLSXVGnNim6B1xhd3dz
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLSXVGnNim6B1xhd3dz

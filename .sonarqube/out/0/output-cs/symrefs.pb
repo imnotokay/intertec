@@ -1,7 +1,7 @@
 ò
 rC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Constants\ConstantsValues.cs
 
-  
+ '
 
  '
 
@@ -9,7 +9,7 @@ rC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterCha
 mC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Model\SentenceParser.cs
 
 		 2
- , "++ /QQ *^^ *
+ 5 "++ /QQ *^^ *
 
   
 ( -! &
@@ -45,17 +45,15 @@ mC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterCha
 èè 
 
 åå) *
-åå. /ﬁ
+åå. /‹
 `C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Program.cs
 
 
  
 
  
-" &" &
- )%%% 3
-
- !
-$$ !%%? I
-%% "&&" -r
+" &" &
+ )&&% 3
+## !$$ &&? I
+&& "''" -r
 pC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Properties\AssemblyInfo.cs

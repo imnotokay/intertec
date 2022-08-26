@@ -1,4 +1,4 @@
-à
+ô
 rC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Constants\ConstantsValues.cs
 	namespace 	$
 IntertecCounterChallenge
@@ -7,9 +7,10 @@ rC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterCha
 	Constants# ,
 { 
 public 
-
-class 
-ConstantsValues  
+
+static 
+class 
+ConstantsValues '
 { 
 public 
 const 
@@ -26,7 +27,7 @@ rC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterCha
 $str0 >
 ;> ?
 } 
-} éI
+} ÿI
 mC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Model\SentenceParser.cs
 	namespace 	$
 IntertecCounterChallenge
@@ -41,10 +42,11 @@ mC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterCha
 {
 
  
-private 
-Regex "
-specialCharactersRegex ,
-;, -
+private 
+readonly 
+Regex "
+specialCharactersRegex 5
+;5 6
 public 
 SentenceParser 
 ( 
@@ -643,7 +645,7 @@ tmpLetters
 ™™ 	
 }
 šš 
-}›› Ç
+}›› Ð
 `C:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Program.cs
 	namespace		 	$
 IntertecCounterChallenge		
@@ -657,11 +659,11 @@ tmpLetters
 class 	
 Program
  
-{ 
-public 
-Program 
-( 
-) 
+{ 
+	protected 
+Program 
+( 
+) 
 { 	
 } 	
 static 
@@ -681,82 +683,84 @@ tmpLetters
 SentenceParser0 >
 (> ?
 )? @
-;@ A
-string 
-welcomeMessage !
-=" #
-string$ *
-.* +
-Empty+ 0
-;0 1
-foreach 
-( 
-string 
-arg 
-in !
-args" &
-)& '
-{ 
-Console 
-. 
-Write 
-( 
-string $
-.$ %
-Concat% +
-(+ ,
-arg, /
-,/ 0
-$str1 4
-)4 5
-)5 6
-;6 7
-} 
-Console 
-. 
-	WriteLine 
-( 
-$str  
-)  !
-;! "
-while!! 
-(!! 
-true!! 
-)!! 
-{"" 
-string$$ 
+;@ A
+foreach 
+( 
+string 
+arg 
+in !
+args" &
+)& '
+{ 
+Console 
+. 
+Write 
+( 
+string $
+.$ %
+Concat% +
+(+ ,
+arg, /
+,/ 0
+$str1 4
+)4 5
+)5 6
+;6 7
+} 
+Console 
+. 
+	WriteLine 
+( 
+$str  
+)  !
+;! "
+while   
+(   
+true   
+)   
+{!! 
+string## 
 
-inputValue$$ !
-=$$" #
-Console$$$ +
-.$$+ ,
-ReadLine$$, 4
-($$4 5
-)$$5 6
-;$$6 7
-string%% 
-outputValue%% "
-=%%# $
-sentenceParser%%% 3
-.%%3 4
+inputValue## !
+=##" #
+Console##$ +
+.##+ ,
+ReadLine##, 4
+(##4 5
+)##5 6
+;##6 7
+if$$ 
+($$ 
 
-WordParser%%4 >
-(%%> ?
+inputValue$$ 
+==$$ !
+$str$$" (
+)$$( )
+break%% 
+;%% 
+string&& 
+outputValue&& "
+=&&# $
+sentenceParser&&% 3
+.&&3 4
 
-inputValue%%? I
-)%%I J
-;%%J K
-Console&& 
-.&& 
-	WriteLine&& !
-(&&! "
-outputValue&&" -
-)&&- .
-;&&. /
-}'' 
-}(( 	
-})) 
-}** ›
+WordParser&&4 >
+(&&> ?
+
+inputValue&&? I
+)&&I J
+;&&J K
+Console'' 
+.'' 
+	WriteLine'' !
+(''! "
+outputValue''" -
+)''- .
+;''. /
+}(( 
+})) 	
+}** 
+}++ ›
 pC:\Users\Alex Castillo\source\repos\IntertecCounterChallenge\IntertecCounterChallenge\Properties\AssemblyInfo.cs
 [ 
 assembly 	

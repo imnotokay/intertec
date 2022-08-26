@@ -11,7 +11,7 @@ namespace IntertecCounterChallenge
     [ExcludeFromCodeCoverage]
     class Program
     {
-        public Program()
+        protected Program()
         {
         }
 
@@ -20,7 +20,6 @@ namespace IntertecCounterChallenge
             //Initialize the sentence parser class
             SentenceParser sentenceParser = new SentenceParser();
 
-            string welcomeMessage = string.Empty;
             //It reads the main function arguments
 
             foreach(string arg in args)
@@ -34,6 +33,8 @@ namespace IntertecCounterChallenge
             {
                 //It reads a new line from the console and parses it using sentence parser instance after that write the result in the console
                 string inputValue = Console.ReadLine();
+                if (inputValue == "exit")
+                    break;
                 string outputValue = sentenceParser.WordParser(inputValue);
                 Console.WriteLine(outputValue);
             }
