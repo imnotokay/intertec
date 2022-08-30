@@ -5,9 +5,9 @@ node {
   stage('SonarQube Analysis') {
     def scannerHome = tool 'SonarScanner for MSBuild'
     withSonarQubeEnv() {
-      sh "/usr/local/share/dotnet ${scannerHome}/SonarScanner.MSBuild.dll begin /k:\"imnotokay_intertec_AYLsf3-FBAyuVrc4Q2IV\""
-      sh "/usr/local/share/dotnet build"
-      sh "/usr/local/share/dotnet ${scannerHome}/SonarScanner.MSBuild.dll end"
+      sh "/root/.dotnet/dotnet ${scannerHome}/SonarScanner.MSBuild.dll begin /k:\"imnotokay_intertec_AYLsf3-FBAyuVrc4Q2IV\""
+      sh "/root/.dotnet/dotnet build"
+      sh "/root/.dotnet/dotnet ${scannerHome}/SonarScanner.MSBuild.dll end"
     }
   }
 }
