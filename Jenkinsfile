@@ -3,7 +3,7 @@ node {
     checkout scm
   }
   stage('SonarQube analysis') {
-    withSonarQubeEnv('sonarqube'){
+    withSonarQubeEnv('SonarScanner for MSBuild'){
         def scannerHome = tool 'sonarqube-msbuild';
         sh "${scannerHome}/SonarScanner.MSBuild.dll begin /k:rushdigital_z-docker-base-image-updater /o:rushdigital"
         sh 'MSBuild.dll /t:Rebuild'
